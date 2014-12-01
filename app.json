@@ -2,6 +2,6 @@
   "name": "Simple Java App",
   "description": "A simple Java app with Postgres",
   "repository": "https://github.com/github-account/repository-name",
-  "logo": "https://jr0cket.co.uk/images/java-duke-wave.png",
+  "logo": "http://jr0cket.co.uk/images/java-duke-wave.png",
   "keywords": ["java", "maven", "postgres"]
 }
