@@ -4,6 +4,10 @@ A barebones Java app, which can easily be deployed to Heroku.
 
 This application support the [Getting Started with Java on Heroku](https://devcenter.heroku.com/articles/getting-started-with-java) article - check it out.
 
+## Deploy to Heroku 
+
+  Press [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) to run this application live in your own Heroku account.
+
 ## Running Locally
 
 Make sure you have Java and Maven installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
